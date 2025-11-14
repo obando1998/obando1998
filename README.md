@@ -14,6 +14,7 @@
 
 📝 He tenido la oportunidad de desempeñarme en distintos roles dentro del desarrollo de software, incluyendo: desarrollador... Líder en proyectos internos... Analista de sistemas... Programador freelance... Y en el futuro… quién sabe ☺️... Siempre estoy creciendo, aprendiendo y listo para asumir nuevos desafíos.
 
+📫 Correo: **obando19981@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -21,8 +22,7 @@
 <!-- CONTACTO -->
 <h3 align="left">Contactos with me:</h3>
 <p align="left">
-<a href="https://www.gmail.com/obando19981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian obando" height="30" width="40" /></a>
 <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
@@ -37,13 +37,6 @@
   </a>
 </p>
 <br>
-
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
